@@ -47,12 +47,10 @@
 <p>3. Analyzed the distribution of accommodation and transportation costs.</p>
 <p>4. Analyzed the distribution of trip destinations and identified the most popular destinations.</p>
 
-<h2>Conclusion and Recommendations</h2>
+<h2>Insights and Recommendations</h2>
 <p>Based on the analysis, the following conclusions and recommendations are made:</p>
 
-<p>1. The highest year of trips is 2023, and then the number of trips decreases gradually until 2025. This could be due to several factors such as economic downturns, changes in travel trends, or other global events that affect the tourism industry.</p>
-<p>2. The most popular destinations among travelers are New York, Paris, and Tokyo.</p>
-<p>3. The typical trip duration is around 10 days, and the typical accommodation and transportation costs are around $100 and $300, respectively.</p>
-<p>4. There is a weak positive correlation between trip duration and accommodation/transportation costs. This suggests that travelers who spend more on accommodation or transportation tend to have longer trips.</p>
-<p>5. Traveler demographics such as age and gender have minimal impact on trip preferences. However, traveler nationality could play a significant role in destination choices.</p>
-<p>6. Travel agencies and businesses should monitor the trends and adjust their strategies accordingly to stay competitive in the market. They can also consider offering incentives or discounts during off-peak seasons to attract more customers.</p>
+<p>1. The most popular destinations among travelers are New York, Paris, and Tokyo.</p>
+<p>2. The highest year of trips is 2023, and then the number of trips decreases gradually until 2025. This could be due to several factors such as economic downturns, changes in travel trends, or other global events that affect the tourism industry.</p>
+<p>3. Traveler demographics such as age and gender have minimal impact on trip preferences. However, traveler nationality could play a significant role in destination choices.</p>
+<p>4. Travel agencies and businesses should monitor the trends and adjust their strategies accordingly to stay competitive in the market. They can also consider offering incentives or discounts during off-peak seasons to attract more customers.</p>
